@@ -1,24 +1,44 @@
 {
     "tests": [
       {
-        "name": "Test 1",
+        "name": "Make sure that the sample files are not comitted to the repo",
         "setup": "",
         "run": ".github/classroom/test1.sh",
         "input": "",
         "output": "",
         "comparison": "included",
         "timeout": 10,
-        "points": 10
+        "points": 25
       },
       {
-        "name": "Test 2",
+        "name": "Test if the setup-samples.sh exist and does what it should",
         "setup": "",
-        "run": ".github/classroom/test1.sh",
+        "run": ".github/classroom/test2.sh",
         "input": "",
         "output": "",
         "comparison": "included",
         "timeout": 10,
-        "points": 10
+        "points": 25
+      },
+      {
+        "name": "Test if the fix-samples.sh exist and does what it should",
+        "setup": "",
+        "run": ".github/classroom/test3.sh",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10,
+        "points": 25
+      },
+      {
+        "name": "Looking for a .gitignore file and testing if it keeps the working dir clean",
+        "setup": "",
+        "run": ".github/classroom/test4.sh",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10,
+        "points": 25
       }
     ]
   }
