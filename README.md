@@ -2,15 +2,13 @@
 
 This repo holds the learing exercises for an introdcution to the linux terminal - bash. More details are available at this post on docs.kea.dev: ["Bin Bash and the Whole Shebang"](https://docs.kea.dev/bin-bash-shebang).
 
-You work the exercises by creatating a copy from [the template](https://github.com/kea-dev/bin-bash-shebang). If you are invited to a GitHub Classroom Assignemnt - this step is already setup up for you:
+You work the exercises by creating a copy from [the template](https://github.com/kea-dev/bin-bash-shebang). If you are invited to a GitHub Classroom Assignemnt - this step is already setup up for you:
 
-The GitHub Classroom Assignments are here:
+### The GitHub Classroom Assignments:
 * [Dat22c+d](https://classroom.github.com/a/bQII12on)
 
-Once you are in the repo you must initiate it by copying over the template issues.
-
 ### Get started:
-When your repository is created on GitHub:
+When your repository is created on GitHub you must initiate it by copying over the template issues.
 
 1. Start a CodeSpace
 2. Run the following command in the terminal
