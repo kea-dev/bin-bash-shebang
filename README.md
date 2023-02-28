@@ -1,4 +1,4 @@
-# Bin Bash and teh whole Shebang
+# Bin Bash and the whole Shebang
 
 This repo holds the learing exercises for an introdcution to the linux terminal - bash. More details are available at this post on docs.kea.dev: ["Bin Bash and the Whole Shebang"](https://docs.kea.dev/bin-bash-shebang).
 
