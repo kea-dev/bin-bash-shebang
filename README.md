@@ -1,10 +1,24 @@
-# bin-bash-shebang
+# Bin Bash and teh whole Shebang
 
-This repo is a copy of the template repo [kea-dev/bin-bash-shebang](https://github.com/kea-dev/bin-bash-shebang).
+This repo holds the learing exercises for an introdcution to the linux terminal - bash. More details are available at this post on docs.kea.dev: ["Bin Bash and the Whole Shebang"](https://docs.kea.dev/bin-bash-shebang).
 
-You entry point to this module is a post on docs.kea.dev: ["Bin Bash and the Whole Shebang"](https://docs.kea.dev/bin-bash-shebang).
+You work the exercises by creatating a copy from [the template](https://github.com/kea-dev/bin-bash-shebang). If you are invited to a GitHub Classroom Assignemnt - this step is already setup up for you:
 
-The activities are describe in the issues in your own repo - make your own notes in the isses as you work you way thorugh them - call for help from peers and instructors, simply by mentioneing them in your comments or by assigning them to you issues.
+The GitHub Classroom Assignments are here:
+* [Dat22c+d](https://classroom.github.com/a/bQII12on)
 
-The template repo is also hosting  [public discussion](https://github.com/kea-dev/bin-bash-shebang/discussions) - which might be helful too
+Once you are in the repo you must initiate it by copying over the template issues.
 
+### Get started:
+When your repository is created on GitHub:
+
+1. Start a CodeSpace
+2. Run the following command in the terminal
+```shell
+.github/template/cpissues.sh
+```
+3. View the issues to in repository on GitHub - Work those issues!
+
+The repo is now yours - think of it as part of your learning portfolio. In your own repo - make your own notes in the issues as you work you way thorugh them - call for help from peers and instructors, either by mentioning them in your comments or by assigning them to you issues.
+
+Or use KEA.dev [public open discussion forum](https://github.com/orgs/kea-dev/discussions)
